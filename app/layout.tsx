@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Veridian Payroll | Zambia',
-  description: 'Advanced Payroll System for the Zambian Market',
+  description: 'Zambian Statutory Payroll System',
 }
 
 export default function RootLayout({
